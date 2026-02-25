@@ -5,21 +5,21 @@
       "title": "Dell Precision 5680",
       "content": "A mobile workstation powerhouse with incredible performance and a stunning OLED display.",
       "rating": 5,
-      "image": "https://images.unsplash.com/photo-1587831990711-23ca6441447b?auto=format&fit=crop&q=80&w=400&h=250"
+      "image": "images/precision5680.jpg"
     },
     {
       "id": 2,
       "title": "UNAS 2 Storage Server",
       "content": "Review In Progress: Testing a dual-bay DIY NAS build featuring x2 Seagate 4TB IronWolf 5400 RPM drives (ST4000VN006) configured in RAID 1. Initial benchmarks show excellent thermal stability and near-silent operation for home office environments.",
       "rating": 0,
-      "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&q=80&w=400&h=250"
+      "image": "images/unas2.png"
     },
     {
       "id": 3,
       "title": "QNAP TS-431K",
       "content": "Future Review: Upcoming deep dive into this 4-bay NAS for personal cloud and home entertainment. We will be testing its multimedia capabilities and snapshot protection features soon.",
       "rating": 0,
-      "image": "https://images.unsplash.com/photo-1558494949-ef526b0042a0?auto=format&fit=crop&q=80&w=400&h=250"
+      "image": "images/qnap1.png"
     }
   ],
   "catalog": [
@@ -60,7 +60,7 @@
       "excerpt": "A beginner's guide to setting up a home server and network.",
       "content": "A beginner's guide to setting up a home server and network. Whether you want to host your own media server, run virtual machines, or just learn more about networking, building a home lab is a rewarding project. We'll walk you through choosing the right hardware, setting up a hypervisor, and configuring your first virtual network.",
       "date": "2026-02-15",
-      "image": "https://images.unsplash.com/photo-1558494949-ef526b0042a0?auto=format&fit=crop&q=80&w=400&h=250"
+      "image": "images/qnap1.png"
     },
     {
       "id": 3,
